@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: auto;
+
+    text-align: center;
+    font-family: "Open Sans";
+    font-weight: 200;
+}
+
+.lienzo{
+    border: 1px solid #ff363655;
+    margin: 5px;
+}
+
+h2{
+    padding: 10px;
+    background: #e6e6e6e6;
+}
